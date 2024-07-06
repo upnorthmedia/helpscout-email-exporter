@@ -2,7 +2,13 @@
 
 **Export the body of every thread & conversation to a CSV file.**
 
-There is currently no feature to export conversation data directly from Helpscout or easily via their API.
+### Problem
+There is no feature to export conversation data directly from Helpscout or easily via their API.
+
+### Use Case
+- 🤖 Feeding ALL customer support instances to an AI Chatbot
+- 🔍 Querying conversation data locally
+- 📦 Migrating data to a new support platform
 
 ## Getting Started
 - Install Python3
